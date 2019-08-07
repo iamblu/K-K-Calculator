@@ -9,7 +9,11 @@
 设计文档主要对该计算器项目的整体设计做一定描述，主要对其UML类图做详细设计
 
 ### 程序代码
-待完成
+- History
+- Memory
+- Operator
+- Number
+- Delete
 
 ### 测试
 待完成
